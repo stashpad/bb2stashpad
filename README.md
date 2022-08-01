@@ -17,9 +17,11 @@ curl https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/macos_bb2sp.
 
 To manually run the script run the following steps
 
-1. Download the script [here](https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/macos_bb2sp.sh)
-2. Make the script executable: `chmod +x ./macos_bb2sp.sh`
-3. Execute the script: `./macos_bb2sp.sh`
+1. Download the script by right clicking [this link](https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/macos_bb2sp.sh) and selecting "Save Link As..."
+2. Save the script as "macos_bb2sp.sh"
+3. Open a command prompt to the location you downloaded the script to
+4. Make the script executable: `chmod +x ./macos_bb2sp.sh`
+5. Execute the script: `./macos_bb2sp.sh`
 
 ## Windows
 
@@ -31,8 +33,10 @@ curl https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/windows_bb2s
 
 To manually run the script run the following steps
 
-1. Download the script [here](https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/windows_bb2sp.ps1)
-2. Execute the script: `./windows_bb2sp.ps1`
+1. Download the script by right clicking [this link](https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/windows_bb2sp.sh) and selecting "Save Link As..."
+2. Save the script as "windows_bb2sp.sh"
+3. Open a command prompt to the location you downloaded the script to
+4. Execute the script: `./windows_bb2sp.ps1`
 
 ## Linux
 
@@ -44,6 +48,8 @@ curl https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/linux_bb2sp.
 
 To manually run the script run the following steps
 
-1. Download the script [here](https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/linux_bb2sp.sh)
-2. Make the script executable: `chmod +x ./linux_bb2sp.sh`
-3. Execute the script: `./linux_bb2sp.sh`
+1. Download the script by right clicking [this link](https://raw.githubusercontent.com/bytebaseapp/bb2stashpad/main/linux_bb2sp.sh) and selecting "Save Link As..."
+2. Save the script as "linux_bb2sp.sh"
+3. Open a command prompt to the location you downloaded the script to
+4. Make the script executable: `chmod +x ./linux_bb2sp.sh`
+5. Execute the script: `./linux_bb2sp.sh`
