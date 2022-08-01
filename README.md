@@ -1,10 +1,10 @@
 # Bytebase to Stashpad
 
-Use these bytebase-to-stashpad scripts to migrate Bytebase to Stashpad.
+Use these bytebase-to-stashpad scripts to migrate Bytebase to Stashpad. This will copy over your Bytebase data to the Stashpad app directory.
 
 ## Requirements
 
-- Install Stashpad
+- Install Stashpad at stashpad.com
 - Install [`curl`](https://curl.se/download.html) -- only necessary for auto execution
 
 ## MacOs
